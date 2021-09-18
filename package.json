@@ -1,0 +1,26 @@
+{
+  "name": "wedding-planner-file-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldrinmcaalim/wedding-planner-file-upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldrinmcaalim/wedding-planner-file-upload/issues"
+  },
+  "homepage": "https://github.com/aldrinmcaalim/wedding-planner-file-upload#readme",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.9.0",
+    "@google-cloud/storage": "^5.14.2",
+    "cors": "^2.8.5"
+  }
+}
